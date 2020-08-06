@@ -8,7 +8,7 @@ An untrained deep learning model based on a Deep Decoder was used for image deno
 
 ## Installation
 
-Make sure to download the relevant raw data files, which can be found [here](https://drive.google.com/file/d/1yItSevLQ17-zJ7Tlv8mI47OdfKZ43PeC/view?usp=sharing). Put the tar file in the `data/` folder and run:
+Make sure to download the relevant raw data files, which can be found [here](https://drive.google.com/file/d/1yItSevLQ17-zJ7Tlv8mI47OdfKZ43PeC/view?usp=sharing). To create the `data/` folder, put the tar file in the main folder and run:
 
 ```
 tar -xvf mdd_mri_data.tar.gz
@@ -18,6 +18,7 @@ To get the necessary packages, you can create a conda environment using the prov
 
 ```
 conda env create -f mdd_mri_env.yml
+conda activate mdd_mri
 ```
 
 Or, you can take a look at the `dependencies.txt` file to see a list of relevant packages and versions.
