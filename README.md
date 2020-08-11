@@ -1,6 +1,8 @@
 # Untrained Modified Deep Decoder for Joint Denoising and Parallel Imaging Reconstruction
 
-This is the public GitHub repository for ISMRM 2020 Conference submission 3585, which can be found [here](https://cds.ismrm.org/protected/20MPresentations/abstracts/3585.html).
+This is the public GitHub repository for ISMRM 2020 Conference submission 3585, which can be found [here](https://submissions2.mirasmart.com/ISMRM2020/ViewSubmission.aspx?sbmID=134&validate=false).
+
+Contact: Sukrit Arora (sukrit.arora@berkeley.edu)
 
 ## Synopsis
 
